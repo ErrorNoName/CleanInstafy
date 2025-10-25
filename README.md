@@ -90,7 +90,7 @@ Design moderne avec :
 
 <div align="center">
 
-### [⬇️ Télécharger CleanInstafy v1.0.0 (Windows)](https://github.com/ErrorNoName/CleanInstafy/releases/latest/download/CleanInstafy.exe)
+### [⬇️ Télécharger CleanInstafy v1.0.0 (Windows)](https://github.com/ErrorNoName/CleanInstafy/releases/download/CleanInstafy/CleanInstafy.rar)
 
 **Configuration requise :**
 - Windows 10 (64-bit) ou supérieur
