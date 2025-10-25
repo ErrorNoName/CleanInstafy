@@ -105,7 +105,7 @@ Design moderne avec :
 
 ### Méthode Simple (Recommandée)
 
-1. **Téléchargez** `CleanInstafy.exe` depuis la [page des releases](https://github.com/ErrorNoName/CleanInstafy/releases)
+1. **Téléchargez** `CleanInstafy.exe` depuis la [page des releases](https://github.com/ErrorNoName/CleanInstafy/releases/download/CleanInstafy/CleanInstafy.rar)
 
 2. **Double-cliquez** sur l'exécutable pour lancer l'application
 
